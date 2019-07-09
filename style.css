@@ -1,0 +1,31 @@
+#main-header {
+    color: blue;
+}
+#navbar{
+    background-color: beige;
+}
+.container_nav{
+    text-align: center;
+}
+.blogpost{
+    text-decoration-color: black;
+    background-color: azure;
+    padding: 20px;
+}
+#main{
+    padding: 10px;
+    border: solid 10px black;
+    border-block: black;
+    margin: 10px;
+}
+#main h1{
+    color: aqua;
+}
+#main #odd {
+    color: brown;
+}
+#main #even{
+    color: cornflowerblue;
+
+}
+
